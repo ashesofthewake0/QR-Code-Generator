@@ -1,6 +1,6 @@
 body {
-    background-color: #343a40; /* Dark background */
-    color: #f8f9fa; /* Light text color */
+    background-color: #343a40;
+    color: #f8f9fa; 
 }
 
 h1 {
@@ -8,16 +8,16 @@ h1 {
 }
 
 .form-control {
-    background-color: #495057; /* Darker input background */
-    color: #f8f9fa; /* Light text color */
-    border: 1px solid #6c757d; /* Subtle border color */
+    background-color: #495057; 
+    color: #f8f9fa; 
+    border: 1px solid #6c757d; 
 }
 
 #qrcode {
     margin-top: 20px;
     display: inline-block;
     padding: 20px;
-    background-color: #212529; /* Dark background for QR code */
+    background-color: #212529; 
     border: 1px solid #6c757d;
     border-radius: 5px;
 }
@@ -25,7 +25,7 @@ h1 {
 #advancedOptions {
     padding: 15px;
     border: 1px solid #6c757d;
-    background-color: #495057; /* Slightly lighter dark background */
+    background-color: #495057; 
     border-radius: 5px;
     display: none;
 }
